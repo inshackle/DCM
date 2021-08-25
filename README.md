@@ -1,20 +1,4 @@
-[![Slam](https://imagetot.com/images/2021/06/28/e8155fe3d87a1084d7cda5f4ecc5211c.jpg)](https://telegram.dog/cloudsmirror)
-
-# Deepak Clouds Mirror
-![GitHub Repo stars](https://img.shields.io/github/stars/blackdeep04/deepak-clouds-mirror?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/blackdeep04/deepak-clouds-mirror?color=green&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/blackdeep04/deepak-clouds-mirror/deepak-clouds-mirror)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/blackdeep04/deepak-clouds-mirror)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/blackdeep04/deepak-clouds-mirror)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/blackdeep04/deepak-clouds-mirror)
-![GitHub contributors](https://img.shields.io/github/contributors/blackdeep04/deepak-clouds-mirror?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/blackdeep04/deepak-clouds-mirror?color=red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/blackdeep04/deepak-clouds-mirror)
-![GitHub](https://img.shields.io/github/license/blackdeep04/deepak-clouds-mirror)
-[![Slam Mirror Support](https://img.shields.io/badge/Deepak%20Clouds%20Mirror-support%20group-blue)](https://telegram.dog/cloudsmirror)
-
-**Deepak Clouds Torrent** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
-[Supported Groups](https://telegram.dog/cloudsmirror)
+[
 # Features supported:
 ## Additional Features
 - Get detailed info about replied media (Only for Telegram file)
@@ -286,9 +270,6 @@ machine example.workers.dev password index_password
 ```
 Where host is the name of extractor (eg. Youtube, Twitch). Multiple accounts of different hosts can be added each separated by a new line.
 
-# Credits
 
-Thanks to:
-- [Izzy12](https://github.com/lzzy12/) for original repo
 
 And many more people who aren't mentioned here.
